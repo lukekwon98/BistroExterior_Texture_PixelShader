@@ -1,0 +1,44 @@
+﻿  DrawScene.cpp
+C:\usr\CSE4170\include\FreeImage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'DrawScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(214,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(214,56): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(216,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(216,57): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(241,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(241,52): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(243,23): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(243,53): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(383,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(388,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(397,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(402,34): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(457,35): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(478,25): warning C4101: 'tx_pixmap_32' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(521,7): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(889,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(938,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(989,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1038,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1087,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1368,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1390,62): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1390,50): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1390,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1411,61): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1411,50): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1411,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1421,47): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1689,8): warning C4101: 'aspect_ratio' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1751,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1751,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1758,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1758,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1766,46): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1774,30): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1787,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1793,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1796,10): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\BistroExterior_Texture_PS_GLSL\DrawScene.cpp(1796,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BistroExterior_Texture_PS_GLSL.vcxproj -> C:\Users\pc\OneDrive\바탕 화면\그래픽스\BistroExterior_Texture_PS_GLSL_3\x64\Debug\BistroExterior_Texture_PS_GLSL.exe
