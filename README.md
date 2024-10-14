@@ -19,3 +19,5 @@ Tiger Following Camera: Camera follows the tiger from behind. 'g'
 
 ### Additional Feature:
 User can interact with large monsters (Godzilla, Dragon, Optimus) and adjust their size. Moving close to a tree shrinks them, while approaching a tank restores their size. 
+
+[![영상보기](https://img.youtube.com/vi/4-i9scD6gZ8/0.jpg)](https://www.youtube.com/watch?v=4-i9scD6gZ8)
